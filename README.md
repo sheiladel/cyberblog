@@ -9,7 +9,7 @@ I recently watched the movie Hackers, a film from the '90s featuring Angelina Jo
 It is nearly impossible to go about our day without using our smartphones to communicate with family, colleagues, coworkers, and friends. Unfortunately, our increased use of technology leads to the increase of opportunity for cybercriminals to attack through our smartphones. 
 <p></p>
 I can't say how many times I've received a screenshot from my mom asking if the messages she receives are legit. Why would a random person send prize money? How could she win a prize for a contest she never entered? If you have to wonder if something is legit, it probably is not legit. 
-<p>
+<p></p>
 How can we teach our parents and grandparents to protect themselves from phishing attacks?
 
 Pay attention to who the sender is. If it is from an unknown number or email, it is suspicious. 
